@@ -5,7 +5,10 @@
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/FlipRAM)](https://github.com/FlipRAM)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-felipe-rangel/)](https://www.linkedin.com/in/dev-felipe-rangel/)
 
-I live in Rio de Janeiro, Brazil. I'm currently studying Web Development at Trybe. If you want to talk to me, search for @FlipRAM on social media.
+
+[PT-BR] Moro no Rio de janeiro, Brasil e sou desenvolvedor Full-Stack (Back-end Heavy). Se você quiser falar comigo é so procurar @FlipRAM nas mídias sociais.
+
+[EN-US] I live in Rio de Janeiro, Brazil and I'm a Full-Stack (Back-end Heavy) developer. If you want to talk to me just look for @FlipRAM on social media.
 
 ### Programming languages and frameworks:
 
