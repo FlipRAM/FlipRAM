@@ -6,11 +6,11 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-felipe-rangel/)](https://www.linkedin.com/in/dev-felipe-rangel/)
 
 
-[PT-BR] Moro no Rio de janeiro, Brasil e sou desenvolvedor Full-Stack (Back-end Heavy). Se você quiser falar comigo é so procurar @FlipRAM nas mídias sociais.
+[PT-BR] Moro no Rio de janeiro, Brasil e sou Desenvolvedor de Software Full-Stack (Back-end Heavy) Javascript | Typescript | Node . Também Graduando em Engenharia elétrica com ênfase em sistemas de computação na Universidade do Estado do Rio de Janeiro (UERJ). Inglês avançado e espanhol intermediário, conhecimento de Python, React.js, Docker, MySQL, MongoDB, SQL, Express, HTML, CSS, Programação orientada á objetos, Princípios SOLID, Arquitetura RESTful, API REST, Integração e entregas contínuas (CI / CD), Git, GitHub, Desenvolvimento orientado á testes (TDD), Jest, Mocha, Chai, Sinon e Metodologias Ágeis (Kanban e Scrum). Se você quiser falar comigo é so procurar @FlipRAM_ nas mídias sociais.
 
-[EN-US] I live in Rio de Janeiro, Brazil and I'm a Full-Stack (Back-end Heavy) developer. If you want to talk to me just look for @FlipRAM on social media.
+[EN-US] I live in Rio de Janeiro, Brazil and I'm a Full-Stack Software Developer (Back-end Heavy) Javascript | Typescript | Node . Also Graduating in Electrical Engineering with emphasis on computer systems at the State University of Rio de Janeiro (UERJ). Advanced English and Intermediate Spanish, knowledge of Python, React.js, Docker, MySQL, MongoDB, SQL, Express, HTML, CSS, Object Oriented Programming, SOLID Principles, RESTful Architecture, REST API, Integration and Continuous Delivery (CI / CD ), Git, GitHub, Test Driven Development (TDD), Jest, Mocha, Chai, Sinon and Agile Methodologies (Kanban and Scrum). If you want to talk to me just look for @FlipRAM_ on social media.
 
-### Programming languages and frameworks:
+### Skills:
 
 - HTML
 - CSS
@@ -38,7 +38,6 @@
 - Sinon
 - Metodologias Ágeis (Kanban e Scrum)
 
-#### Skills:
 <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /><img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" /><img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
