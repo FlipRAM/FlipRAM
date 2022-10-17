@@ -19,11 +19,14 @@
 - React Router
 - Redux
 - Node.js
+- Java
+- Python
 - Docker
 - MySQL
 - MongoDB
 - SQL
 - Express
+- Spring Boot
 - Programação orientada á objetos
 - Princípios SOLID
 - Arquitetura RESTful
@@ -50,10 +53,7 @@
 ### Stats:
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlipRAM&layout=compact)](https://github.com/FlipRAM/github-readme-stats)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlipRAM)](https://github.com/FlipRAM/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FlipRAM)](https://github.com/FlipRAM/github-readme-stats)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlipRAM&layout=compact)](https://github.com/FlipRAM/github-readme-stats)
 
 <!--
 **FlipRAM/FlipRAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
