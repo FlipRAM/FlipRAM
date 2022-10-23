@@ -8,6 +8,7 @@
 
 [PT-BR] Moro no Rio de janeiro, Brasil e sou Desenvolvedor de Software Full-Stack (Back-end Heavy) Javascript | Typescript | Node . Também Graduando em Engenharia elétrica com ênfase em sistemas de computação na Universidade do Estado do Rio de Janeiro (UERJ). Inglês avançado e espanhol intermediário, conhecimento de Python, React.js, Docker, MySQL, MongoDB, SQL, Express, HTML, CSS, Programação orientada á objetos, Princípios SOLID, Arquitetura RESTful, API REST, Integração e entregas contínuas (CI / CD), Git, GitHub, Desenvolvimento orientado á testes (TDD), Jest, Mocha, Chai, Sinon e Metodologias Ágeis (Kanban e Scrum). Se você quiser falar comigo é so procurar @FlipRAM_ nas mídias sociais.
 
+
 [EN-US] I live in Rio de Janeiro, Brazil and I'm a Full-Stack Software Developer (Back-end Heavy) Javascript | Typescript | Node . Also Graduating in Electrical Engineering with emphasis on computer systems at the State University of Rio de Janeiro (UERJ). Advanced English and Intermediate Spanish, knowledge of Python, React.js, Docker, MySQL, MongoDB, SQL, Express, HTML, CSS, Object Oriented Programming, SOLID Principles, RESTful Architecture, REST API, Integration and Continuous Delivery (CI / CD ), Git, GitHub, Test Driven Development (TDD), Jest, Mocha, Chai, Sinon and Agile Methodologies (Kanban and Scrum). If you want to talk to me just look for @FlipRAM_ on social media.
 
 ### Skills:
